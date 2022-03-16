@@ -62,6 +62,6 @@ User should press “*” to put the system into locked mode. In this mode the s
 
 Keypad Library
 
-ShiftedLCD library
+ShiftedLCD library - https://github.com/omersiar/ShiftedLCD
 
 SPI library
