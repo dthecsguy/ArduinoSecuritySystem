@@ -48,7 +48,7 @@ The baseline version of the security system is to be able to lock the system, un
 
 When the system is first started it is booted into fresh mode. In fresh mode there is no code and the system cannot be locked. The LCD should display “Fresh”.
 
-User should press “#C” to start code recording. User can enter up to 6 digit code which is finished once “#” is pressed. The LCD only shows stars and after input is finished it will show the correct code for 3 seconds.
+User should press “#C” to start code recording. User can enter up to 6 digit code which is finished once “#” is pressed. After input is finished it will show the correct code for 3 seconds.
 
 The system will then go into unlocked mode. In this mode the solenoid is in the “unlocked” position and the alarm is disabled. The LCD will display “unlocked”
 
